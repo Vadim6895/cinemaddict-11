@@ -12,6 +12,7 @@ Thumbs.db
 
 # Файлы сборки (допишите самостоятельно)
 
+
 node_modules/
 public/bundle.js
 public/bundle.js.map
