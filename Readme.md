@@ -6,7 +6,7 @@
 
 <a href="https://htmlacademy.ru/intensive/react"><img align="left" width="50" height="50" title="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/react/logo-for-github.png"></a>
 
-Репозиторий создан для обучения на профессиональном онлайн‑курсе «[JavaScript, уровень 2](https://htmlacademy.ru/intensive/react)» от [HTML Academy](https://htmlacademy.ru).
+Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Профессиональный JavaScript, уровень 2](https://htmlacademy.ru/intensive/ecmascript)» от [HTML Academy](https://htmlacademy.ru).
 
 [travis-image]: https://travis-ci.com/htmlacademy-react/1093679-what-to-watch-4.svg?branch=master
 [travis-url]: https://travis-ci.com/htmlacademy-react/1093679-what-to-watch-4
@@ -24,8 +24,3 @@ npm i
 ```sh
 npm run start
 ```
-
-## Запуск тестов 
-
-```sh
-npm test
