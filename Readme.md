@@ -24,3 +24,8 @@ npm i
 ```sh
 npm run start
 ```
+
+## Запуск тестов 
+
+```sh
+npm test
