@@ -24,15 +24,3 @@ npm i
 ```sh
 npm run start
 ```
-
-
-Программа обучения
-SPA - Single Page Application
-Структуры данных
-ООП, введение.
-ООП, наследование и полиморфизм.
-MVP, Presenter.
-MVP, View.
-MVP, Model.
-Работа с сетью.
-Offline.
