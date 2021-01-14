@@ -11,6 +11,17 @@
 [travis-image]: https://travis-ci.com/htmlacademy-react/1093679-what-to-watch-4.svg?branch=master
 [travis-url]: https://travis-ci.com/htmlacademy-react/1093679-what-to-watch-4
 
+### Программа обучения
+1. SPA - Single Page Application
+2. Структуры данных
+3. ООП, введение.
+4. ООП, наследование и полиморфизм.
+5. MVP, Presenter.
+6. MVP, View.
+7. MVP, Model.
+8. Работа с сетью.
+9. Offline.
+
 ## Установка
 
 Для локальной установки и использования проекта вам потребуется Node.js v10 +.
@@ -24,14 +35,3 @@ npm i
 ```sh
 npm run start
 ```
-
-### Программа обучения
-1. SPA - Single Page Application
-2. Структуры данных
-3. ООП, введение.
-4. ООП, наследование и полиморфизм.
-5. MVP, Presenter.
-6. MVP, View.
-7. MVP, Model.
-8. Работа с сетью.
-9. Offline.
